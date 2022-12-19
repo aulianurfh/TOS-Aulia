@@ -3,3 +3,4 @@ Menghentikan (Stoping): Melakukan kontrol terhadap bola dan menghentikan bola de
 Menggiring (Dribbling): Melakukan giringan terhadap bola untuk melewati lawan dan menghambat permainan
 Menyundul (Heading): Melakukan umpan dan mencetak gol dengan menggunakan kepala
 Merampas (Tackling): Melakukan perebutan bola dari lawan
+Menangkap: Penjaga Gawang melakukan tangkapan bola yang ditendang oleh pemain penyerang lawan
